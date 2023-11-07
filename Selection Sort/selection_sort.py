@@ -1,4 +1,3 @@
-#O(n^2)
 def SelectionSort(A, size):
     for i in range(size):
         min = i
@@ -14,4 +13,6 @@ seq = [7,2,4,5,3,1]
 len = len(seq)
 SelectionSort(seq, len)
 print(seq)
+
+Time Complexity : O(n^2)
 '''
