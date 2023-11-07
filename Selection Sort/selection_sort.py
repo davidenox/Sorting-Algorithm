@@ -14,5 +14,4 @@ seq = [7,2,4,5,3,1]
 len = len(seq)
 SelectionSort(seq, len)
 print(seq)
-
 '''
